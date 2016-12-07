@@ -1,3 +1,4 @@
+install.packages("repmis")
 library(repmis)
 
 source_data("https://github.com/jcmartinezovando/est46111_datos/blob/master/EST46111_NFLDraft_Data.RData?raw=true")
